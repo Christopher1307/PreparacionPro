@@ -1,0 +1,4 @@
+ID DEL PAGO(0)  NOMBRE PROVEEDOR(1)	  Pago(2)	FECHA PAGO (3)   ID DEL PRODUCTO(4)	 ID NULIDAD(5)  ID PROVEEDOR(6)			EMAIL(7)									APELLIDO    NOMBRE (8)
+9510021233		Empresa001			1.137,12	  17/03/21	      B28078020	         18-2021	    000000001	   		   email001@empresa.com	  					  Contacto001, Clara Valeria
+FRA-204389		Empresa002			5.337,98	  11/03/21	      A08099681	         18-2021	    000000002		    email002@empresa.com;email003@empresa.com		  Contacto002, David
+3483480166		Empresa015			11.375,10	  16/03/21	      A08233801	         18-2021	    000000015		                      							   Contacto015, Miguel Angel
