@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autos>
+    <auto id="001">
+        <marca>Ford</marca>
+        <modelo>Mustang</modelo>
+        <año>2023</año>
+        <color>rojo</color>
+        <tipo_motor>V8</tipo_motor>
+        <cilindrada>5.0</cilindrada>
+        <potencia>450</potencia>
+    </auto>
+    <auto id="002">
+        <marca>Chevrolet</marca>
+        <modelo>Camaro</modelo>
+        <año>2024</año>
+        <color>azul</color>
+        <tipo_motor>V6</tipo_motor>
+        <cilindrada>3.6</cilindrada>
+        <potencia>335</potencia>
+    </auto>
+    <auto id="2312343">
+        <marca>rayo </marca>
+        <modelo>cuchao</modelo>
+        <año>2200</año>
+        <color>rojo</color>
+        <tipo_motor>v9</tipo_motor>
+        <cilindrada>9.9</cilindrada>
+        <potencia>999</potencia>
+    </auto>
+    <auto id="2323243">
+        <marca>rayo</marca>
+        <modelo>cuchao</modelo>
+        <año>2023</año>
+        <color>V9</color>
+        <tipo_motor>V9</tipo_motor>
+        <cilindrada>9.9</cilindrada>
+        <potencia>999</potencia>
+    </auto>
+    <auto id="2323533">
+        <marca>MAE</marca>
+        <modelo>MIA</modelo>
+        <año>2323</año>
+        <color>VERDE</color>
+        <tipo_motor>	V6</tipo_motor>
+        <cilindrada>9.8</cilindrada>
+        <potencia>222</potencia>
+    </auto>
+</autos>
